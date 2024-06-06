@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: a39a689fda2e4644aa266f63aa710a66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG_exterior_137
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888fa5ad9a6129489fe22f14dd25e1d
+      internalID: 201274308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b6b8793a94ddd4ebbf9c55555a9ea8
+      internalID: -838099382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_139
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2222efb3be58dd45927e4bc78f32a53
+      internalID: 374477474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d645b8f92f19845b69104678495e08
+      internalID: 87790172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8345c99249c646b22c52c365e8333
+      internalID: -871786081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5933df3cdb4e4364d9edf08d055d2a74
+      internalID: -1145497475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0549902c2732c04a94e1685036ada72
+      internalID: 1426066313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9acf4b582aba246bcd60b22d28a6ca
+      internalID: -761770131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952dc960000fd8f4ca9d7d66c1ee3784
+      internalID: -1248490219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_217
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6be696f1d41041a4fb05608ba9e93
+      internalID: -1115730543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_218
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21000627e1b2d44c8c36b1e17abcd68
+      internalID: -2122701213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_219
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd9f1f5dbe7a0f4287d16b8821054ec
+      internalID: 1437402266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb7a68ead2afa34ea43ca0dcf7c417d
+      internalID: -1877298812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_241
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d815e1a85c44204eaeed5cd7c38ed8d
+      internalID: 1034953511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_242
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e559d609c43845a98edf7024fbf87
+      internalID: -1802079733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_269
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae716b85ef5cf44e9bd27d0fad48b0d
+      internalID: 1407916155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_270
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08eeeb2ea26db140a1c0c23b513ddd9
+      internalID: -1740020615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_271
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78de4c289c7d64999348213ea87b6b
+      internalID: -695740468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_293
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057de06a2a3949543aed0dea6ae2efb9
+      internalID: -796861773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_295
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea282603285886747aaa383ff3b0cee3
+      internalID: 694154552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_317
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e8cfaf071c6d44b2be38f515be38b
+      internalID: 111876241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_318
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd5af7e51380247a56e1e7cf705a37
+      internalID: 604517723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_319
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10bde7eb7bff6d40a9cf4c399c5a9de
+      internalID: 577969771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_384
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33cb2394b14d634a8e379c5f4b69bf7
+      internalID: 1516071336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_385
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c125dbfab29040af5bc8b65646212
+      internalID: 1995317630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5020313, y: 0.01411781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7cc6af00380a04ca34af7d8715a72e
+      internalID: 44538919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_exterior_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ded32a154fa34a988063674ef6a55
+      internalID: 690772783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG_exterior_0: 1566466782
+      RPG_exterior_1: 690772783
+      RPG_exterior_10: -1767912678
+      RPG_exterior_100: -1673647825
+      RPG_exterior_101: 165745330
+      RPG_exterior_102: 176560475
+      RPG_exterior_103: -102681861
+      RPG_exterior_104: -1901565936
+      RPG_exterior_105: -1527833064
+      RPG_exterior_106: -1215196709
+      RPG_exterior_107: 1626700146
+      RPG_exterior_108: -435876039
+      RPG_exterior_109: -2078933795
+      RPG_exterior_11: -704109921
+      RPG_exterior_110: -1786718384
+      RPG_exterior_111: 1482238244
+      RPG_exterior_112: 1888325761
+      RPG_exterior_113: 522843798
+      RPG_exterior_114: -216578892
+      RPG_exterior_115: -190813961
+      RPG_exterior_116: 387443692
+      RPG_exterior_117: -581750350
+      RPG_exterior_118: -172444068
+      RPG_exterior_119: 11960133
+      RPG_exterior_12: 1936434420
+      RPG_exterior_120: -235751125
+      RPG_exterior_121: 13696674
+      RPG_exterior_122: 1741312549
+      RPG_exterior_123: -2061647170
+      RPG_exterior_124: 44538919
+      RPG_exterior_125: 511462173
+      RPG_exterior_126: 1093437763
+      RPG_exterior_127: 1016192014
+      RPG_exterior_128: -1595297934
+      RPG_exterior_129: 532308860
+      RPG_exterior_13: -348838929
+      RPG_exterior_130: -2039718664
+      RPG_exterior_131: 1180389408
+      RPG_exterior_132: -1597804713
+      RPG_exterior_133: -1111702196
+      RPG_exterior_134: 1904025098
+      RPG_exterior_135: 1264203881
+      RPG_exterior_136: 1257326787
+      RPG_exterior_137: 201274308
+      RPG_exterior_138: -838099382
+      RPG_exterior_139: 374477474
+      RPG_exterior_14: 1079397774
+      RPG_exterior_140: -235081904
+      RPG_exterior_141: 850644852
+      RPG_exterior_142: -66324907
+      RPG_exterior_143: 413268845
+      RPG_exterior_144: -625498117
+      RPG_exterior_145: -1900792430
+      RPG_exterior_146: 1082178284
+      RPG_exterior_147: 2089000960
+      RPG_exterior_148: 87790172
+      RPG_exterior_149: 1007096468
+      RPG_exterior_15: 1990146938
+      RPG_exterior_150: 1408338108
+      RPG_exterior_151: 715195913
+      RPG_exterior_152: 202496553
+      RPG_exterior_153: 953882464
+      RPG_exterior_154: -1189659132
+      RPG_exterior_155: -1383840681
+      RPG_exterior_156: -103871279
+      RPG_exterior_157: -1543600540
+      RPG_exterior_158: -1233786263
+      RPG_exterior_159: 712387448
+      RPG_exterior_16: 400275844
+      RPG_exterior_160: -1260220322
+      RPG_exterior_161: 1430725958
+      RPG_exterior_162: -220257601
+      RPG_exterior_163: -2130366206
+      RPG_exterior_164: 618556001
+      RPG_exterior_165: 1218987955
+      RPG_exterior_166: 2069942876
+      RPG_exterior_167: 1148500219
+      RPG_exterior_168: 1792121059
+      RPG_exterior_169: -1727993682
+      RPG_exterior_17: -1110800114
+      RPG_exterior_170: -1763359378
+      RPG_exterior_171: -1323909863
+      RPG_exterior_172: -862259507
+      RPG_exterior_173: -1096214308
+      RPG_exterior_174: 1226765148
+      RPG_exterior_175: 92031665
+      RPG_exterior_176: 685671824
+      RPG_exterior_177: 1374984836
+      RPG_exterior_178: -1092349832
+      RPG_exterior_179: -295038467
+      RPG_exterior_18: -158098717
+      RPG_exterior_180: 180104513
+      RPG_exterior_181: 327405122
+      RPG_exterior_182: -1676217745
+      RPG_exterior_183: -2016797583
+      RPG_exterior_184: 376876291
+      RPG_exterior_185: 1129317814
+      RPG_exterior_186: 1706642462
+      RPG_exterior_187: -1446586921
+      RPG_exterior_188: 1367376799
+      RPG_exterior_189: -1581511702
+      RPG_exterior_19: -105506604
+      RPG_exterior_190: -432161724
+      RPG_exterior_191: 498994509
+      RPG_exterior_192: -871786081
+      RPG_exterior_193: -1145497475
+      RPG_exterior_194: 1426066313
+      RPG_exterior_195: -761770131
+      RPG_exterior_196: -211460538
+      RPG_exterior_197: -1181204401
+      RPG_exterior_198: -1126044264
+      RPG_exterior_199: 837058113
+      RPG_exterior_2: -555520905
+      RPG_exterior_20: -1398068898
+      RPG_exterior_200: -1784159351
+      RPG_exterior_201: 8181000
+      RPG_exterior_202: -1353761988
+      RPG_exterior_203: -64756851
+      RPG_exterior_204: 1890515699
+      RPG_exterior_205: 549516245
+      RPG_exterior_206: -1981530018
+      RPG_exterior_207: 539428273
+      RPG_exterior_208: -688332158
+      RPG_exterior_209: 1359416684
+      RPG_exterior_21: 1254289671
+      RPG_exterior_210: -841279185
+      RPG_exterior_211: -260929146
+      RPG_exterior_212: 802830355
+      RPG_exterior_213: -1213833243
+      RPG_exterior_214: 1958870115
+      RPG_exterior_215: 64971536
+      RPG_exterior_216: -1248490219
+      RPG_exterior_217: -1115730543
+      RPG_exterior_218: -2122701213
+      RPG_exterior_219: 1437402266
+      RPG_exterior_22: -118456411
+      RPG_exterior_220: -1193185170
+      RPG_exterior_221: 847122540
+      RPG_exterior_222: -1691258289
+      RPG_exterior_223: 1282443548
+      RPG_exterior_224: -1985725582
+      RPG_exterior_225: -1584371069
+      RPG_exterior_226: -228590282
+      RPG_exterior_227: -2054861799
+      RPG_exterior_228: -1244798016
+      RPG_exterior_229: 1922512350
+      RPG_exterior_23: -513606292
+      RPG_exterior_230: -159576119
+      RPG_exterior_231: -2057419970
+      RPG_exterior_232: 1342987680
+      RPG_exterior_233: -1282833090
+      RPG_exterior_234: -1324061564
+      RPG_exterior_235: 1645668299
+      RPG_exterior_236: 702160491
+      RPG_exterior_237: 1585645105
+      RPG_exterior_238: 1933490166
+      RPG_exterior_239: -1148735069
+      RPG_exterior_24: 1884349515
+      RPG_exterior_240: -1877298812
+      RPG_exterior_241: 1034953511
+      RPG_exterior_242: -1802079733
+      RPG_exterior_243: 1057921502
+      RPG_exterior_244: 522561424
+      RPG_exterior_245: 760383716
+      RPG_exterior_246: -1309687349
+      RPG_exterior_247: 1584483429
+      RPG_exterior_248: 1378198154
+      RPG_exterior_249: -207394543
+      RPG_exterior_25: 1456049433
+      RPG_exterior_250: 964515673
+      RPG_exterior_251: -1750056966
+      RPG_exterior_252: -1818365670
+      RPG_exterior_253: 511411370
+      RPG_exterior_254: -2128782151
+      RPG_exterior_255: -1832700349
+      RPG_exterior_256: 250643374
+      RPG_exterior_257: -1860299468
+      RPG_exterior_258: -114232231
+      RPG_exterior_259: -1923701121
+      RPG_exterior_26: 1012510545
+      RPG_exterior_260: -614414426
+      RPG_exterior_261: 1710047080
+      RPG_exterior_262: -1670525713
+      RPG_exterior_263: -73678188
+      RPG_exterior_264: -1806313500
+      RPG_exterior_265: 1366534847
+      RPG_exterior_266: -1136325851
+      RPG_exterior_267: -568403276
+      RPG_exterior_268: -535006988
+      RPG_exterior_269: 1407916155
+      RPG_exterior_27: 2064136336
+      RPG_exterior_270: -1740020615
+      RPG_exterior_271: -695740468
+      RPG_exterior_272: 214418113
+      RPG_exterior_273: -402181189
+      RPG_exterior_274: 1305535690
+      RPG_exterior_275: 471241702
+      RPG_exterior_276: -1554164483
+      RPG_exterior_277: -129225251
+      RPG_exterior_278: 967864953
+      RPG_exterior_279: 1541847485
+      RPG_exterior_28: -1542510712
+      RPG_exterior_280: -601454093
+      RPG_exterior_281: 279193891
+      RPG_exterior_282: 386391840
+      RPG_exterior_283: 1709057406
+      RPG_exterior_284: -937401148
+      RPG_exterior_285: -422435843
+      RPG_exterior_286: -212674208
+      RPG_exterior_287: -2124136242
+      RPG_exterior_288: -604120280
+      RPG_exterior_289: 737091071
+      RPG_exterior_29: -748550481
+      RPG_exterior_290: -1042391484
+      RPG_exterior_291: -35541724
+      RPG_exterior_292: -674586744
+      RPG_exterior_293: -796861773
+      RPG_exterior_294: 30716451
+      RPG_exterior_295: 694154552
+      RPG_exterior_296: -2059332240
+      RPG_exterior_297: 628057764
+      RPG_exterior_298: 296383137
+      RPG_exterior_299: 1320025966
+      RPG_exterior_3: -823989173
+      RPG_exterior_30: -72351952
+      RPG_exterior_300: -79529061
+      RPG_exterior_301: 857320212
+      RPG_exterior_302: -263327700
+      RPG_exterior_303: 1243181563
+      RPG_exterior_304: -252789256
+      RPG_exterior_305: -1615976369
+      RPG_exterior_306: -1285398565
+      RPG_exterior_307: -878872773
+      RPG_exterior_308: 2078654117
+      RPG_exterior_309: 1058907638
+      RPG_exterior_31: 1429460688
+      RPG_exterior_310: -1752024353
+      RPG_exterior_311: 1195959354
+      RPG_exterior_312: -1602146243
+      RPG_exterior_313: 1976261334
+      RPG_exterior_314: 450332737
+      RPG_exterior_315: -1443841832
+      RPG_exterior_316: 43392300
+      RPG_exterior_317: 111876241
+      RPG_exterior_318: 604517723
+      RPG_exterior_319: 577969771
+      RPG_exterior_32: -1883878640
+      RPG_exterior_320: 1990790529
+      RPG_exterior_321: 1439954256
+      RPG_exterior_322: 1096505884
+      RPG_exterior_323: 873031536
+      RPG_exterior_324: -1516677362
+      RPG_exterior_325: -1841165948
+      RPG_exterior_326: -429849080
+      RPG_exterior_327: 951746249
+      RPG_exterior_328: 1102720046
+      RPG_exterior_329: 154268649
+      RPG_exterior_33: 1220258788
+      RPG_exterior_330: 1980607444
+      RPG_exterior_331: 1215284952
+      RPG_exterior_332: -1667552567
+      RPG_exterior_333: -2007999952
+      RPG_exterior_334: 104270973
+      RPG_exterior_335: -2082025849
+      RPG_exterior_336: -1922798162
+      RPG_exterior_337: -1217941369
+      RPG_exterior_338: 1394443584
+      RPG_exterior_339: -1447007773
+      RPG_exterior_34: -1955611309
+      RPG_exterior_340: 166086470
+      RPG_exterior_341: 2037620384
+      RPG_exterior_342: 359138235
+      RPG_exterior_343: 1890102422
+      RPG_exterior_344: 1031286324
+      RPG_exterior_345: 873056100
+      RPG_exterior_346: -1338907037
+      RPG_exterior_347: -1861001314
+      RPG_exterior_348: 37809396
+      RPG_exterior_349: 1932815356
+      RPG_exterior_35: 1488575116
+      RPG_exterior_350: 1236154881
+      RPG_exterior_351: 1827014406
+      RPG_exterior_352: -1550910629
+      RPG_exterior_353: -1504002721
+      RPG_exterior_354: 895839935
+      RPG_exterior_355: -317140545
+      RPG_exterior_356: 1833384750
+      RPG_exterior_357: -1988973881
+      RPG_exterior_358: 2045344898
+      RPG_exterior_359: 595969465
+      RPG_exterior_36: 595579141
+      RPG_exterior_360: 2003423332
+      RPG_exterior_361: 3475527
+      RPG_exterior_362: 1632982207
+      RPG_exterior_363: 2126979212
+      RPG_exterior_364: -1976322054
+      RPG_exterior_365: 2074354367
+      RPG_exterior_366: 942469783
+      RPG_exterior_367: -774131529
+      RPG_exterior_368: -1378656958
+      RPG_exterior_369: 756158468
+      RPG_exterior_37: -1020268288
+      RPG_exterior_370: 216621505
+      RPG_exterior_371: 597348848
+      RPG_exterior_372: -686128188
+      RPG_exterior_373: 703349459
+      RPG_exterior_374: 1818055413
+      RPG_exterior_375: 807736637
+      RPG_exterior_376: 1029049602
+      RPG_exterior_377: 88447423
+      RPG_exterior_378: -786158158
+      RPG_exterior_379: 68314156
+      RPG_exterior_38: 991671303
+      RPG_exterior_380: 223420261
+      RPG_exterior_381: 1519802306
+      RPG_exterior_382: 817072100
+      RPG_exterior_383: 212636162
+      RPG_exterior_384: 1516071336
+      RPG_exterior_385: 1995317630
+      RPG_exterior_386: 286177515
+      RPG_exterior_387: -1412715827
+      RPG_exterior_388: -1451132539
+      RPG_exterior_389: -1759407859
+      RPG_exterior_39: -1441521207
+      RPG_exterior_390: -1998760121
+      RPG_exterior_391: 681008648
+      RPG_exterior_392: -686009461
+      RPG_exterior_393: 1511873398
+      RPG_exterior_394: 2098652847
+      RPG_exterior_395: -878907333
+      RPG_exterior_396: -1781694598
+      RPG_exterior_397: 95065098
+      RPG_exterior_398: 1581373149
+      RPG_exterior_399: -341795102
+      RPG_exterior_4: 536645448
+      RPG_exterior_40: 438387255
+      RPG_exterior_400: 1357978682
+      RPG_exterior_401: -661332216
+      RPG_exterior_402: 1450599053
+      RPG_exterior_403: 1289636794
+      RPG_exterior_404: 1662897734
+      RPG_exterior_405: 390225377
+      RPG_exterior_406: -44906408
+      RPG_exterior_407: 1124464796
+      RPG_exterior_41: 656637416
+      RPG_exterior_42: 557407564
+      RPG_exterior_43: -1467312323
+      RPG_exterior_44: -2088627687
+      RPG_exterior_45: -705902164
+      RPG_exterior_46: -158907123
+      RPG_exterior_47: 493359272
+      RPG_exterior_48: -513926395
+      RPG_exterior_49: -1484462094
+      RPG_exterior_5: -1027068326
+      RPG_exterior_50: -1779847825
+      RPG_exterior_51: -175753208
+      RPG_exterior_52: -1366667747
+      RPG_exterior_53: 937044812
+      RPG_exterior_54: -1759668195
+      RPG_exterior_55: 1254771614
+      RPG_exterior_56: 44344035
+      RPG_exterior_57: -83651278
+      RPG_exterior_58: 181877771
+      RPG_exterior_59: 2027773308
+      RPG_exterior_6: 366528322
+      RPG_exterior_60: 1047355367
+      RPG_exterior_61: -1751085399
+      RPG_exterior_62: 1884853387
+      RPG_exterior_63: -1504610907
+      RPG_exterior_64: 871961536
+      RPG_exterior_65: 1658729234
+      RPG_exterior_66: -1232327883
+      RPG_exterior_67: 1099463803
+      RPG_exterior_68: -8345565
+      RPG_exterior_69: -1903357991
+      RPG_exterior_7: 38905118
+      RPG_exterior_70: 1342418389
+      RPG_exterior_71: -1123399669
+      RPG_exterior_72: -1449919186
+      RPG_exterior_73: 1119244742
+      RPG_exterior_74: 1784048706
+      RPG_exterior_75: 2030387725
+      RPG_exterior_76: -1640084991
+      RPG_exterior_77: -252763998
+      RPG_exterior_78: 401875109
+      RPG_exterior_79: -2089646425
+      RPG_exterior_8: -752443623
+      RPG_exterior_80: -914764433
+      RPG_exterior_81: 1529207356
+      RPG_exterior_82: 236060456
+      RPG_exterior_83: -953762660
+      RPG_exterior_84: 470397057
+      RPG_exterior_85: -2064835145
+      RPG_exterior_86: -1640094496
+      RPG_exterior_87: -741270707
+      RPG_exterior_88: 1663441705
+      RPG_exterior_89: -108335209
+      RPG_exterior_9: 290985685
+      RPG_exterior_90: -1494650699
+      RPG_exterior_91: 1259459633
+      RPG_exterior_92: -956392805
+      RPG_exterior_93: 1971668345
+      RPG_exterior_94: -820261449
+      RPG_exterior_95: 1259232043
+      RPG_exterior_96: 1994342536
+      RPG_exterior_97: -1670312271
+      RPG_exterior_98: -264743204
+      RPG_exterior_99: -438632699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
